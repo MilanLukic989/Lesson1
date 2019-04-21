@@ -5,7 +5,7 @@ public class MyFirstProgram {
 		
 		System.out.println("hola 123!");
 		
-		System.out.println();
+		System.out.println("Hello June!");
 		
 	}
 	
